@@ -1,0 +1,37 @@
+thanks again for providing these files to play around with. I'm still quite the novice at any sort of 3D rendering so this really lessens the learning curve (to none, hah). anyway, I'm linking here (http://dl.dropbox.com/u/6114880/citiesandknights.zip) to a zip file on dropbox (and attaching the file for convenience) that contains 17 pictures of the requested pieces with and without scale. I'll go through all of these to describe the piece and how it is used in game so you can have an idea of how to craft them to work with the models you've already crafted.
+
+01-02 - Metropolis
+
+there are three of these "golden" gateways provided for play in the cities and knights expansion. 
+
+03 - Metropolis w/ City
+
+they're designed to sit on top of the city piece to indicate that one of the three metropolis' has been earned by that player. they are all painted in a neutral yellow color, because there are only three of them in the game. each player has an equal chance of getting one, two, all or none of them. once they are all claimed they are gone, but under certain circumstances they can trade hands once they've been placed.
+
+this mutability of ownership produces a bit of a challenge. since there can only ever be three of these on the board, casting three copies of a whole new model for each possible player seems like an excessive amount of work. This is especially true when you consider the possibility that you may have to swap it out if you lose the metropolis piece. An add-on similar to the original game seems the most ideal option, but that might require a redesign of you castle in order to accommodate... a tower in the courtyard or something?
+
+04-05 City Walls
+
+city wall pieces are pretty simple square tiles. three are provided to each player.
+
+06-07 City Walls w/ City & Metropolis
+
+the city wall pieces are simply placed beneath the city tokens to indicate they have been built. They can be used with or without the metropolis gates. once placed, they can be destroyed and removed from play.
+
+As you can see, we have a similar problem with the walls that we have with the metropolis piece. it would be inconvenient to create three new pieces representing a city with a wall and another set of three representing a metropolis for each player. so, how can this be integrated in to the design without having to alter your original parts?
+
+08-09 Merchant
+
+this purple, conical piece is the merchant token. it is designed to sit on the resource tile to indicate a specific resource that they player who owns the merchant receives a special trade bonus for. there's only one per game, and I don't see why it can't just sit on the number token at the center of the tile. it might be a little inconvenient to lift the merchant to read the number, but it would be the simplest solution
+
+10-12 Barbarian
+
+this black viking shaped vessel is the barbarian token. it does not actually go on the board. in stead, it is moved along an independent scoring track that measures the interval between attacks on the players. it is quite a bit larger than the standard ship tokens that come with seafarers.
+
+really, a 3D printed version of this is unnecessary, but I thought I'd mention it in case you felt like making a larger boat or a custom scoring track that would be compatible with the ship model you've already crafted.
+
+13-17 Knights
+
+each player gets six knight tokens; two knight for each strength, basic(steel cap), strong(full helm), and mighty(great helm). each token is double sided with an active (color) side and inactive (grey) side. knights move along roads and seaways and can only be placed on unoccupied intersections of roads and boats.
+
+3D models for these would be extremely awesome, but the challenges of designing two models for each state (on or off) and casting a full set of 12 pieces for each player may be tedious.
